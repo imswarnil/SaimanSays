@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="stylesheet.css">
+		<link rel="stylesheet" href="bootstrap.css">
+		<script async src="script.js"></script>
+	</head>
+	<body>
+		<img class="sprite" id="sprites-left" src="sprites/left.png">
+		<img class="sprite" id="sprites-right" src="sprites/right.png">
+		<img class="sprite" id="sprites-bullet" src="sprites/bullet.bmp">
+		<img class="sprite" id="sprites-carry1" src="sprites/carry1.png">
+		<img class="sprite" id="sprites-carry2" src="sprites/carry2.png">
+		<img class="sprite" id="sprites-carry3" src="sprites/carry3.png">
+		<h1 id="health" class="stats">
+			health:<progress id="health-progress" max="100" value="100"></progress>
+		</h1>
+		<h1 id="score" align="right" class="stats">score: <span id="score-progress">0</span></h1>
+		<canvas id="screen"></canvas>
+		<div id="gameover">
+			<h1 class="text-danger">GAME OVER</h1>
+			<button class="btn btn-success" id="restart" onclick="window.location.reload()">restart</button>
+		</div>
+	</body>
+</html>
