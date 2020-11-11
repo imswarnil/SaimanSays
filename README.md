@@ -1,16 +1,16 @@
-* [Live Demo](https://imswarnil.github.io/SaimanSays/) -Youtuber Portfolio Material Website
+* [Live Demo](https://imswarnil.github.io/SaimanSays/) - Saiman Says Ki Website 
 
-# One Page Youtuber Portfolio Template Using MateriallizeCSS
-Website Template For Content Creator Specially Youtubers, Youtubers need website as being a youtuber i understand what they want in their website or portfolio i have designed this template in such a way so that creator can create his own beautiful portfolio for exiting template you can do further modification you free to use this template for any other purpose if you want.
+# Saiman Says Ki Website 
+If You Don't Know Saiman Says He i Saanp According To CarryMinati, but i love this dued i thought why not teach my subscribers web developement what i know by building something cool for saiman says. so here i am making website for saiman says by doing live stream everyday untill it gets completed.
 
-One Page Youtuber Portfolio Template
-## Built With
+## Want To Know Step Wise Step How I Build This Website
+I wrote blog with all details how you can also build similar website : * [Read Blog ](https://imswarnil.com/saiman-says-ki-website/) - Saiman Says Ki Website 
+
+## Built With & Resources
 
 * [MateriallizeCSS](http://www.materiallizecss.com) - Material Design By Google
 
-## Read My Blog
-If you love my project you can visit my blog for more awesome work 
-* [Imswarnil :- Blog Of Trailblazer ](https://imswarnil.com) - My Dev Blog
+## R
 
 ## License
 
